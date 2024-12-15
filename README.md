@@ -1,6 +1,6 @@
 # FastAPI Event Trigger Platform
 
-This is a FastAPI-based platform for managing event triggers. The platform supports **scheduled triggers** and **API triggers**, allowing users to create, test, log, and manage event triggers efficiently.
+This is a FastAPI-based platform for managing event triggers. The platform supports **scheduled triggers** and **API triggers**, allowing users to efficiently create, test, log, and manage event triggers.
 
 ## Features
 
@@ -26,5 +26,9 @@ This is a FastAPI-based platform for managing event triggers. The platform suppo
 
 1. **Clone the Repository**:
    ```bash
-   git clone {{repository-url}}
-   cd {{project-name}}
+   git clone https://github.com/priyanshix/Segwise
+   cd Segwise
+2. **Install Dependencies: Install the necessary dependencies for the project using pip:**
+```bash
+pip install -r requirements.txt
+```
