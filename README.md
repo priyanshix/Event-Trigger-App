@@ -26,8 +26,8 @@ This is a FastAPI-based platform for managing event triggers. The platform suppo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/priyanshix/Segwise
-   cd Segwise
+   git clone https://github.com/priyanshix/Event-Trigger-App
+   cd Event-Trigger-App
 2. **Install Dependencies: Install the necessary dependencies for the project using pip:**
 ```bash
 pip install -r requirements.txt
