@@ -32,3 +32,6 @@ This is a FastAPI-based platform for managing event triggers. The platform suppo
 ```bash
 pip install -r requirements.txt
 ```
+
+## Deployed Version: 
+[Event Trigger Platform](https://segwise-px-39o2.onrender.com/docs)
